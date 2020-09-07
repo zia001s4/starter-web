@@ -14,3 +14,6 @@ Sample website with plenty of files for demos
 ## Close
 
 NOw i am closing
+
+
+Copyright 
